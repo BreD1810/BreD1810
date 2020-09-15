@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bradley-garrod-861283175/)
 [![GitLab](https://img.shields.io/static/v1?label=&message=BreD1810&style=for-the-badge&logo=GitLab)](https://gitlab.com/BreD1810/)
 [![Website](https://img.shields.io/static/v1?label=&message=Visit%20my%20website&style=for-the-badge&logo=hugo)](https://bredley.co.uk)
+[![Buy Me a Coffee](https://img.shields.io/static/v1?label=&message=Buy%20Me%20a%20Coffee&style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/BreD1810)
 
 
 ![Brad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreD1810&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true)
