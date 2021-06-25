@@ -33,5 +33,5 @@
 [![glab](https://github-readme-stats.vercel.app/api/pin/?username=profclems&repo=glab)](https://github.com/profclems/glab)
 [![Tea Selector](https://github-readme-stats.vercel.app/api/pin/?username=BreD1810&repo=tea-selector)](https://github.com/BreD1810/tea-selector)
 [![Fortuna 2048](https://github-readme-stats.vercel.app/api/pin/?username=BreD1810&repo=fortuna-2048)](https://github.com/BreD1810/fortuna-2048)
-[![Kine's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=BreD1810&repo=kines-portfolio)](https://github.com/BreD1810/kines-portfolio)
+[![Kine's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=BreD1810&repo=kinesart-gatsby)](https://github.com/BreD1810/kinesart-gatsby)
 [![Pexip](https://github-readme-stats.vercel.app/api/pin/?username=BreD1810&repo=pexip)](https://github.com/BreD1810/Pexip)
