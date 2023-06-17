@@ -10,7 +10,7 @@
 
 ## My Top Languages And Technologies 💻
 
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=f89820&logo=java&logoColor=FFFFFF)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=f89820&logo=openjdk&logoColor=FFFFFF)
 ![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)
 ![C Sharp](https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c%20sharp&logoColor=FFFFFF)
