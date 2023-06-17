@@ -11,22 +11,22 @@
 ## My Top Languages And Technologies 💻
 
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=f89820&logo=java&logoColor=FFFFFF)
+![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)
 ![C Sharp](https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c%20sharp&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JS&color=F7DF1E&logo=javascript&logoColor=FFFFFF)
 ![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=c&logoColor=FFFFFF)
-![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)
 ![Haskell](https://img.shields.io/static/v1?label=&message=Haskell&color=5D4F85&logo=haskell&logoColor=FFFFFF)
 
 
-![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)
-![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=2088FF&logo=github%20actions&logoColor=FFFFFF)
-![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)
+![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)
+![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)
+![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=6DB33F&logo=spring&logoColor=FFFFFF)
+![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=2088FF&logo=github%20actions&logoColor=FFFFFF)
 ![Hugo](https://img.shields.io/static/v1?label=&message=Hugo&color=FF4088&logo=hugo&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=FFFFFF)
-![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)
-![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=6DB33F&logo=spring&logoColor=FFFFFF)
 
 
 ## My Favourite Projects 🚀
